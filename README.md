@@ -15,7 +15,7 @@
 
 | Головна | Галерея | Профіль |
 | :---: | :---: | :---: |
-| ![Home Screen](./assets/image.png) | ![Gallery Screen](./assets/Mavpa.png) | ![Profile Screen]
+| ![Home Screen](./assets/image.png) | ![Gallery Screen](./assets/Mavpa.png) 
 
 ---
 
